@@ -18,16 +18,20 @@ button#header-search-toggle {
 .page-template {
     background-color: #2d5e80;
     background-image: url(https://research.tuni.fi/uploads/2019/01/9c8dac4d-10214_taustakuva.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backgroundAttachment: fixed;
     padding: 2rem
 }}
 
 
 #main-content {
-    background-color:white
+    background-color:white;
 }
 
 
 /*footer*/
 .footer-main{
-    background-color:white
+    background-color:white;
 }
+
