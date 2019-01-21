@@ -20,7 +20,7 @@ button#header-search-toggle {
     background-image: url(https://research.tuni.fi/uploads/2019/01/9c8dac4d-10214_taustakuva.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    backgroundAttachment: fixed;
+    background-attachment: fixed;
     padding: 2rem
 }}
 
