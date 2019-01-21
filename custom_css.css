@@ -8,6 +8,10 @@ a.header-main__title__link {
     color:white;
 }
 
+p.header-main__tagline {
+    color: white;
+}
+
 button#header-search-toggle {
     color: white;
 }
