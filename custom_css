@@ -1,0 +1,33 @@
+/*header*/
+.u-cf {
+    background-color:#4e008e;
+    color: white;
+}
+
+a.header-main__title__link {
+    color:white;
+}
+
+button#header-search-toggle {
+    color: white;
+}
+
+
+/*main*/
+ @media (min-width : 1024px) {
+.page-template {
+    background-color: #2d5e80;
+    background-image: url(https://research.tuni.fi/uploads/2019/01/9c8dac4d-10214_taustakuva.jpg);
+    padding: 2rem
+}}
+
+
+#main-content {
+    background-color:white
+}
+
+
+/*footer*/
+.footer-main{
+    background-color:white
+}
