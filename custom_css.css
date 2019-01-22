@@ -1,4 +1,13 @@
 /*header*/
+
+@media (min-width : 64rem) {
+.u-cf {
+    background-image: url(https://research.tuni.fi/uploads/2019/01/1aa0739b-spm_logo_transp.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}}
+
 .u-cf {
     background-color:#4e008e;
     color: white;
