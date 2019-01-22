@@ -39,3 +39,21 @@ button#header-search-toggle {
     background-color:white;
 }
 
+
+
+
+/*contacts*/
+
+.contacts {
+    max-width: 37rem;
+    margin: inherit;
+}
+
+
+.contacts__card__img-wrap {
+    height: 100%;
+    width: 75%;
+    object-fit: contain;
+    box-shadow: 0px 0px 20px 0px black;
+    display: list-item;
+}
